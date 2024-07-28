@@ -1,7 +1,7 @@
 # Project Title
 Amazon Reviews Analysis
 
-This project aims to analyze Amazon reviews using a historical dataset. It includes data retrieval, preprocessing, and possibly further analysis or model building based on the dataset.
+This project aims to analyze Amazon reviews of cell phones and their accessories using a historical dataset. It includes data retrieval, preprocessing, and possibly further analysis or model building based on the dataset.
 # Dataset
 License: Apache 2.0
 Description: The dataset contains reviews of cell phones and accessories.
