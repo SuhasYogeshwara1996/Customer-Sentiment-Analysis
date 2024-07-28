@@ -17,7 +17,7 @@ Jupyter Notebook: 1.0.0, Kaggle: 1.6.14, Keras: 2.11.0, Matplotlib: 3.5.2, Panda
 
    pip install pandas kaggle
    
-### 4. Download the dataset
+### 3. Download the dataset
 
 # Project Structure
 ### Project-1.ipynb: 
