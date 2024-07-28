@@ -22,7 +22,7 @@ Jupyter Notebook: 1.0.0, Kaggle: 1.6.14, Keras: 2.11.0, Matplotlib: 3.5.2, Panda
 # Project Structure
 ### Project-1.ipynb: 
 
-Code for Data Retrieval and Preprocessing.
+Code for Data Retrieval and Preprocessing. Model building and fine tuning. 
 
 ### README.md: 
 
